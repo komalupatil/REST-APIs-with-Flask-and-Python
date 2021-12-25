@@ -2,4 +2,4 @@
 
 ## About this repository
 
-### This respository contains the learnings frm the Udemy course "https://www.udemy.com/course/rest-api-flask-and-python/"
+**This respository contains the learnings from the Udemy course "https://www.udemy.com/course/rest-api-flask-and-python/"**
